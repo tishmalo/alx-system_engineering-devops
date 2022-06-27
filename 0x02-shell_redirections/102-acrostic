@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+echo -ne $(cut -c-1 | tr -d '\n')'\n'
+>>>>>>> b15f0c905de8e17cc0fdc67e2d18fb835c5b7c7b
